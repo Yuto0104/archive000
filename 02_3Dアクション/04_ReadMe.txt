@@ -30,9 +30,7 @@ Git : https://github.com/Yuto0104/Shooting000
 ┃
 ┣━ [ 03_動画 ]
 ┃
-┣━ [ 04_ReadMe.txt ]
-┃
-┗━[ 05_ゲーム紹介.pdf ]
+┗━ [ 04_ReadMe.txt ]
 			
 ◆00_実行環境
 exeファイルと起動に必要なリソースファイル、オンラインランキングが入っています。
