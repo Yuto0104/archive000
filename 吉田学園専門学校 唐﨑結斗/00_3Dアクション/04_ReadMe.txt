@@ -24,8 +24,6 @@ YouTube : https://www.youtube.com/watch?v=GbpJNxY6o3U&list=PLj0Cq42DUVEVUQ1V5cp1
 ┃
 ┣━ [ 02_スクリーンショット ]
 ┃
-┣━ [ 03_動画 ]
-┃
 ┗━[ 04_ReadMe.txt ]
 			
 ◆00_実行環境

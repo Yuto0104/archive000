@@ -7,7 +7,7 @@
 //==============================================================================
 
 ◆URL◆
-Git : https://github.com/Yuto0104/Shooting000
+Git : https://github.com/Yuto0104/PersonalProduction000
 
 ◆このディレクトリについて◆
 ディレクトリ構成図は以下のようになっています。
@@ -27,8 +27,6 @@ Git : https://github.com/Yuto0104/Shooting000
 ┃		┗━開発環境.zip
 ┃
 ┣━ [ 02_スクリーンショット ]
-┃
-┣━ [ 03_動画 ]
 ┃
 ┗━ [ 04_ReadMe.txt ]
 			
